@@ -1,0 +1,36 @@
+img{
+    height: 20px;
+}
+#img{
+    height: 100px;
+}
+hr{
+   /*border-color: purple;
+   height: 2px;*/
+   border: 2px solid purple;
+   background-color: purple;
+}
+#title{
+    font: bold 24px "Comic Sans MS";
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: purple;
+}
+body{
+    background-color: #FDDEFC;
+}
+li{
+    font: bold small-caps 10px "Arial";
+}
+.grey{
+    color: grey;
+}
+#italic{
+    font-style: italic;
+}
+#strike{
+    text-decoration: line-through;
+}
+#overline{
+    text-decoration: overline;
+}

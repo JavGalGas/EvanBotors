@@ -1,0 +1,29 @@
+a:link{
+    background-color: pink;
+}
+/*link sirve cuando un enlace no ha sido abierto*/
+a:visited{
+    background-color: green;
+}
+/*visited sirve cuando un enlace ha sido visitado*/
+a:active{
+    background-color:brown;
+}
+/*active sirve cuando un enlace ha sido clickeado*/
+a:hover{
+    background-color: black;
+    color: white;
+}
+/*hover sirve cuando el puntero pasa sobre un enlace*/
+p:first-letter{
+    font-size: 30px;
+}
+/*first-letter sirve para modificar la primera letra de un párrafo*/
+p:first-line{
+    color: blue;
+}
+/*first-line sirve para modificar la primera linea de un párrafo*/
+input[type="text"]:focus,input[type="password"]:focus{
+    border: 3px dashed red;
+}
+/*focus sirve cuando se usa el input*/

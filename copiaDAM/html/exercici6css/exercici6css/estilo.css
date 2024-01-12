@@ -1,0 +1,4 @@
+body{    background-color: #E6D2BB; font: 10px "Comic Sans MS";    text-align: justify;}
+.blue{    border: 1px solid blue;    color: blue;}
+.green{    border: 3px dotted green;    text-align: right;}
+#consolas{    font: 16px "Consolas" }
